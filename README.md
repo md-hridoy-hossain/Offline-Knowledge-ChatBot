@@ -1,7 +1,8 @@
 # 🤖 Offline Knowledge Chatbot  
 
-!(assets/Instant Gyan.png)  
-
+## 🖥️ Interface Preview
+![Instant Gyan Chatbot Interface](assets/Instant-Gyan.PNG)
+*The chatbot interface showing question input and answer output*
 
 ## 🚀 Features  
 - Answers questions **offline** (no internet required after setup)  
