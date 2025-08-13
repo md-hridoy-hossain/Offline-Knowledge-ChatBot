@@ -1,6 +1,6 @@
 # 🤖 Offline Knowledge Chatbot  
 
-![Demo](assets/Instant Gyan.PNG)  
+!(assets/Instant Gyan.png)  
 
 
 ## 🚀 Features  
