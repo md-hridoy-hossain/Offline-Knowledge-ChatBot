@@ -1,7 +1,7 @@
 # 🤖 Offline Knowledge Chatbot  
 
-![Demo](assets/demo.gif)  
-*A screenshot/GIF of your chatbot in action*
+![Demo](assets/Instant Gyan.PNG)  
+
 
 ## 🚀 Features  
 - Answers questions **offline** (no internet required after setup)  
